@@ -2,12 +2,12 @@
 
 1. Kiểu dữ liệu
 const num = 5 + 5
-const str = "hello ae wibu"
+const str = "hello ae wibu" </break>
 
-type Person = {
-	age : number
-	deptrai : boolean
-}
+	type Person = {
+		age : number	
+		deptrai : boolean
+	}
 
 const viet:Person = {
 	age: 10,
